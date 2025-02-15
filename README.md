@@ -15,4 +15,4 @@ This project analyzes sales, profit, and customer trends using Power BI.
 ![image](https://github.com/user-attachments/assets/e673c146-1ef4-4b5d-93b0-e986f59f8d66)
 
 
-*Connect with me on https://www.linkedin.com/in/suprabha-das-b6638a308
+Connect with me on https://www.linkedin.com/in/suprabha-das-b6638a308
